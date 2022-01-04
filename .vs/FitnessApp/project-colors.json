@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "128d8e65-ee53-4c43-b9af-54ada0f12f2e": {
+      "ProjectGuid": "128d8e65-ee53-4c43-b9af-54ada0f12f2e",
+      "DisplayName": "FitnessApp.BL",
+      "ColorIndex": 0
+    },
+    "a99aba7c-a456-4630-9786-131a737cba2f": {
+      "ProjectGuid": "a99aba7c-a456-4630-9786-131a737cba2f",
+      "DisplayName": "FitnessApp.CMD",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
