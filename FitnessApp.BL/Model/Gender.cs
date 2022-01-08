@@ -9,6 +9,7 @@ namespace FitnessApp.BL.Model
     /// <summary>
     /// Пол
     /// </summary>
+    [Serializable]
     public class Gender
     {
         /// <summary>
@@ -17,7 +18,7 @@ namespace FitnessApp.BL.Model
         public string Name { get; }
 
         /// <summary>
-        /// Сздать новый пол
+        /// Содать новый пол
         /// </summary>
         /// <param name="name"> Имя пола </param>
         /// <exception cref="ArgumentNullException"></exception>
